@@ -47,6 +47,6 @@
         android:layout_height="36dp"
         android:layout_alignParentBottom="true"
         android:layout_margin="16dp"
-        android:=srt"@drowable/ic_volume_up_black_24dp"/>
+        android:src="@drowable/ic_volume_up_black_24dp"/>
 
 </RelativeLayout>
